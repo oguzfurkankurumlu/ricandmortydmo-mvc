@@ -1,0 +1,202 @@
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\appsettings.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.staticwebassets.runtime.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.staticwebassets.endpoints.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.exe
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.deps.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.runtimeconfig.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\ricandmorty mvc.pdb
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\RestSharp.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.csproj.AssemblyReference.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.AssemblyInfoInputs.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.AssemblyInfo.cs
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.csproj.CoreCompileInputs.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.RazorAssemblyInfo.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.RazorAssemblyInfo.cs
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\scopedcss\bundle\ricandmorty mvc.styles.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\scopedcss\projectbundle\ricandmorty mvc.bundle.scp.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\xqxkmd0w6k-b9sayid5wm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\0frvwnjqyo-61n19gt1b8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\bjzpnxvodm-xtxxf3hu2r.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\i7hob4fbnu-bqjiyaj88i.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\fhsd55au08-c2jlpeoesf.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\9xrk5ber0k-erw9l3u2r3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\2o11hq63dw-aexeepp0ev.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\pq2ijfujyv-d7shbmvgxk.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\2olqoucx1h-ausgxo2sd3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\fqm8zqcyek-k8d9w2qqmf.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\x87ddkwlmi-cosvhxvwiu.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\tcbybtkexo-ub07r2b239.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\gl4itfnq8j-fvhpjtyr6v.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\yh4c83g6qi-b7pk76d08c.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\y3m3uf5m9m-fsbi9cje9m.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\4z6u48ze2b-rzd6atqjts.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\92qyzt29di-ee0r1s7dh0.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\o8phm5pmtx-dxx9fxp4il.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\vvla2k9kpm-jd9uben2k1.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\sayzfpaghm-khv3u5hwcm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\a3k9fp1i7n-r4e9w2rdcm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\edsmffpnk4-lcd1t2u6c8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\r12fgf8yhb-c2oey78nd0.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\r7iq3jhcyl-tdbxkamptv.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\v6glozeber-j5mq2jizvt.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\xy3lf4x3i3-06098lyss8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\ql19hm9mg2-nvvlpmu67g.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\lxh9n6w83r-s35ty4nyc5.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\kzo4gtbeqc-pj5nd1wqec.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\yxrx5t6fh2-46ein0sx1k.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\wygy7zpvld-v0zj4ognzu.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\uss049udb1-37tfw0ft22.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\i5t8mkaeug-hrwsygsryq.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\83g2ppkb1l-pk9g2wxc8p.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\ao48bfcm3m-ft3s53vfgj.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\r8tykmw2mf-6cfz1n2cew.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\157qa8yxds-6pdc2jztkx.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\a3nlmri6jl-493y06b0oq.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\pu27i47h5h-iovd86k7lj.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\duaa58gfh6-vr1egmr9el.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\gldmbvh7vw-kbrnm935zg.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\srkh514sy1-jj8uyg4cgr.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\a6yyn95fgi-y7v9cxd14o.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\engz0cyatf-notf2xhcfb.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\famkjfaqg6-h1s4sie4z3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\s64q1fqzf3-63fj8s7r0e.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\07pqm1o3s0-0j3bgjxly4.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\qye0ajineh-47otxtyo56.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\d5zr5ngjaz-4v8eqarkd7.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\einwd8ik1i-356vix0kms.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\bevjurglfo-83jwlth58m.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\a9cgydca7d-mrlpezrjn3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\sq6qq64bcs-lzl9nlhx6b.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\2draionl9o-ag7o75518u.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\j7vdlm76kd-x0q3zqp4vz.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\9rb4gmiyw3-0i3buxo5is.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\m49x4cisyp-o1o13a6vjx.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\zgovkwtdie-ttgo8qnofa.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\cz026shd75-2z0ns9nrw6.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\4mcdkpftex-muycvpuwrr.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\2qaigx266u-87fc7y1x7t.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\8ecf9o4cel-mlv21k5csn.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\4ug455offe-bc6heka0s8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\compressed\fwxdtnh138-bc6heka0s8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets\msbuild.ricandmorty mvc.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets\msbuild.ricandmorty mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets\msbuild.build.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmo.1B75850B.Up2Date
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\refint\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.pdb
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ricandmorty mvc.genruntimeconfig.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\obj\Debug\net9.0\ref\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmorty mvc\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\appsettings.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.staticwebassets.endpoints.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.staticwebassets.runtime.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.exe
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.deps.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.runtimeconfig.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\ricandmorty mvc.pdb
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\Newtonsoft.Json.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\bin\Debug\net9.0\RestSharp.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.csproj.AssemblyReference.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.AssemblyInfoInputs.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.AssemblyInfo.cs
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.csproj.CoreCompileInputs.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.RazorAssemblyInfo.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.RazorAssemblyInfo.cs
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\scopedcss\bundle\ricandmorty mvc.styles.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\scopedcss\projectbundle\ricandmorty mvc.bundle.scp.css
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\xqxkmd0w6k-b9sayid5wm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\0frvwnjqyo-61n19gt1b8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\bjzpnxvodm-xtxxf3hu2r.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\i7hob4fbnu-bqjiyaj88i.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\fhsd55au08-c2jlpeoesf.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\9xrk5ber0k-erw9l3u2r3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\2o11hq63dw-aexeepp0ev.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\pq2ijfujyv-d7shbmvgxk.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\2olqoucx1h-ausgxo2sd3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\fqm8zqcyek-k8d9w2qqmf.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\x87ddkwlmi-cosvhxvwiu.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\tcbybtkexo-ub07r2b239.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\gl4itfnq8j-fvhpjtyr6v.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\yh4c83g6qi-b7pk76d08c.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\y3m3uf5m9m-fsbi9cje9m.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\4z6u48ze2b-rzd6atqjts.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\92qyzt29di-ee0r1s7dh0.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\o8phm5pmtx-dxx9fxp4il.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\vvla2k9kpm-jd9uben2k1.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\sayzfpaghm-khv3u5hwcm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\a3k9fp1i7n-r4e9w2rdcm.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\edsmffpnk4-lcd1t2u6c8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\r12fgf8yhb-c2oey78nd0.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\r7iq3jhcyl-tdbxkamptv.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\v6glozeber-j5mq2jizvt.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\xy3lf4x3i3-06098lyss8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\ql19hm9mg2-nvvlpmu67g.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\lxh9n6w83r-s35ty4nyc5.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\kzo4gtbeqc-pj5nd1wqec.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\yxrx5t6fh2-46ein0sx1k.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\wygy7zpvld-v0zj4ognzu.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\uss049udb1-37tfw0ft22.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\i5t8mkaeug-hrwsygsryq.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\83g2ppkb1l-pk9g2wxc8p.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\ao48bfcm3m-ft3s53vfgj.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\r8tykmw2mf-6cfz1n2cew.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\157qa8yxds-6pdc2jztkx.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\a3nlmri6jl-493y06b0oq.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\pu27i47h5h-iovd86k7lj.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\duaa58gfh6-vr1egmr9el.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\gldmbvh7vw-kbrnm935zg.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\srkh514sy1-jj8uyg4cgr.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\a6yyn95fgi-y7v9cxd14o.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\engz0cyatf-notf2xhcfb.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\famkjfaqg6-h1s4sie4z3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\s64q1fqzf3-63fj8s7r0e.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\07pqm1o3s0-0j3bgjxly4.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\qye0ajineh-47otxtyo56.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\d5zr5ngjaz-4v8eqarkd7.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\einwd8ik1i-356vix0kms.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\bevjurglfo-83jwlth58m.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\a9cgydca7d-mrlpezrjn3.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\sq6qq64bcs-lzl9nlhx6b.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\2draionl9o-ag7o75518u.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\j7vdlm76kd-x0q3zqp4vz.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\9rb4gmiyw3-0i3buxo5is.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\m49x4cisyp-o1o13a6vjx.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\zgovkwtdie-ttgo8qnofa.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\cz026shd75-2z0ns9nrw6.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\4mcdkpftex-muycvpuwrr.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\2qaigx266u-87fc7y1x7t.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\8ecf9o4cel-mlv21k5csn.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\4ug455offe-bc6heka0s8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\compressed\fwxdtnh138-bc6heka0s8.gz
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets\msbuild.ricandmorty mvc.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets\msbuild.ricandmorty mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets\msbuild.build.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ricandmorty mvc.props
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmo.1B75850B.Up2Date
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\refint\ricandmorty mvc.dll
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.pdb
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ricandmorty mvc.genruntimeconfig.cache
+c:\Users\oguzf\Desktop\ÇALIŞMALAR\ricandmortydmo mvc\obj\Debug\net9.0\ref\ricandmorty mvc.dll
