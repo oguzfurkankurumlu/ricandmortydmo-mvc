@@ -263,4 +263,3 @@ verilerin geldıgınıgordukten sonra gerı donusu RickAndMortyDMO oalrak aldık
 Automapper kurulumu
 dotnet add package AutoMapper --version 13.0.1
 
-Webapi repository ıcıne 

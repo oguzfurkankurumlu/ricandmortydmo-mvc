@@ -5,7 +5,9 @@ builder.Services.AddControllersWithViews();
 // bağımlılıkları ekleyelim!!
 builder.Services.AddScoped<IWebApiRepository,WebApiRepository>();
 builder.Services.AddScoped<IWebApiService,WebApiService>();
-
+builder.Services.AddScoped<Helpers>();
+// AutoMapper konfigürasyonunu burada yapıyoruz
+builder.Services.AddAutoMapper(typeof(MappingProfile));  // MappingProfile'ı dahil ediyoruz
 
 var app = builder.Build();
 

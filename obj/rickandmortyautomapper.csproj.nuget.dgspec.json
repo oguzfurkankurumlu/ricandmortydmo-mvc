@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj": {}
+    "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\rickandmortyautomapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj": {
+    "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\rickandmortyautomapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj",
-        "projectName": "ricandmorty mvc",
-        "projectPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj",
+        "projectUniqueName": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\rickandmortyautomapper.csproj",
+        "projectName": "rickandmortyautomapper",
+        "projectPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\rickandmortyautomapper.csproj",
         "packagesPath": "C:\\Users\\oguzf\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\obj\\",
         "projectStyle": "PackageReference",
@@ -50,20 +50,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "RestSharp": {
-              "target": "Package",
-              "version": "[112.1.1-alpha.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

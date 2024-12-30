@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ricandmorty mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac36e40061c5e3617787c34653e23f7d42625597")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751090cd1e70345dbc61e3f29bb8f194f5e1607e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ricandmorty mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ricandmorty mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

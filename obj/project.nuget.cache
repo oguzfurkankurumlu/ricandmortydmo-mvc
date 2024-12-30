@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EdinL4nxfK0=",
+  "dgSpecHash": "86d0kmDKdU0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj",
+  "projectFilePath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oguzf\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\oguzf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

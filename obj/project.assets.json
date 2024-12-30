@@ -294,11 +294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj",
+      "projectUniqueName": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj",
       "projectName": "ricandmorty mvc",
-      "projectPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj",
+      "projectPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\ricandmorty mvc.csproj",
       "packagesPath": "C:\\Users\\oguzf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\obj\\",
+      "outputPath": "C:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\rickandmortyautomapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
