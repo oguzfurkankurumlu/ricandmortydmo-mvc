@@ -14,24 +14,22 @@ using RestSharp;
 
 public class WebApiRepository:IWebApiRepository
 {
-    public string GetAll()
+    public RickAndMortyDMO GetAll()
     {
         // Rick and morty sitesine RestSharp kullanarak istek atalım!!
         var options = new RestClientOptions("https://rickandmortyapi.com/api/");
         var client = new RestClient(options);
         var request = new RestRequest("character");
-        
-        //get yapa post oldugunu burdan anlayacagız.kendımız verdık bunu method.get i 
         request.Method =  Method.Get;
         // The cancellation token comes from the caller. You can still make a call without it.
         var timeline =  client.Get(request);
 
-        
-         return timeline.Content;
-
+        RickAndMortyDMO resultData = JsonConvert.DeserializeObject<RickAndMortyDMO>(timeline.Content);
+        return resultData;
     }
 }
 public interface IWebApiRepository
 {
-    public string GetAll();
+
+    public RickAndMortyDMO GetAll();
 }

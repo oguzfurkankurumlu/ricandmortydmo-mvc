@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydmo mvc\\ricandmorty mvc.csproj": {}
+    "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj": {}
   },
   "projects": {
-    "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydmo mvc\\ricandmorty mvc.csproj": {
+    "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydmo mvc\\ricandmorty mvc.csproj",
+        "projectUniqueName": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj",
         "projectName": "ricandmorty mvc",
-        "projectPath": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydmo mvc\\ricandmorty mvc.csproj",
+        "projectPath": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\ricandmorty mvc.csproj",
         "packagesPath": "C:\\Users\\oguzf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydmo mvc\\obj\\",
+        "outputPath": "c:\\Users\\oguzf\\Desktop\\ÇALIŞMALAR\\ricandmortydto mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
